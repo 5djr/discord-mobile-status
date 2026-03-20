@@ -1,6 +1,6 @@
 {
   "name": "discord-mobile-status",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Give discord.js bots a Discord iOS or Android mobile status indicator.",
   "main": "index.js",
   "types": "index.d.ts",
